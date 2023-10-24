@@ -1,0 +1,20 @@
+{
+  "name": "class-js",
+  "version": "1.0.0",
+  "description": "js class for road to sdet",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha day4/calculation.test.js"
+  },
+  "author": "zafir100100",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.5.0",
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
